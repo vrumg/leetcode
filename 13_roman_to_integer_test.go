@@ -1,8 +1,8 @@
 package leetcode
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestRomanToInt(t *testing.T) {
